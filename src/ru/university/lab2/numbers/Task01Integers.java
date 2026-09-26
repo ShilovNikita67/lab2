@@ -76,6 +76,7 @@ public class Task01Integers {
         if (a>0 && b>0 && sum < 0){
             return true;
         }
+
         if (a<0 && b<0 && sum >= 0){
             return true;
         }

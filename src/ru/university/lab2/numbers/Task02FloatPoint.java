@@ -10,6 +10,7 @@ public class Task02FloatPoint {
         floatVsDouble();
     }
 
+
     private static void sumRoundingError(){
         double sum = 0.1+0.2;
         System.out.println("Сумма 0.1 + 0.2: "+sum);
